@@ -41,10 +41,10 @@ Extensible hashing is a dynamic hashing technique used to efficiently manage lar
 2. Navigate to the project directory:
 
    ```bash
-   cd extensible-hashing
+   cd ExtHash
 3. Compile the Java source files:
    ```bash
-   javac *.java
+   javac ExtHash.java
 
 ### Usage
 1. Compile the source files as mentioned in the installation steps.
