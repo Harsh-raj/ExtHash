@@ -63,4 +63,4 @@ For more detailed implementation information, refer to the source code comments 
 Contributions are welcome! If you find any issues or improvements, feel free to open a GitHub issue or submit a pull request. Please follow the existing coding style and guidelines.
 
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details..
